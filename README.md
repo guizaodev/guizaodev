@@ -30,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://rlv.zcache.com.br/preto_da_etiqueta_de_unraid-r90549904cb6d483db9b8bc53d17f3bf1_0ugmc_8byvr_540.jpg" alt="linux" width="40" height="40" style="object-fit: cover; object-position: center; max-width: 100%"></img>
 
 ![Guizao's github stats](https://github-readme-stats.vercel.app/api?username=guizaodev&show_icons=true&count_private=true&theme=dracula)
