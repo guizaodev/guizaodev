@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40" style="max-width:100%;"></img>
 
-## 📮 Lastest blog posts
+## 📮 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Versão 32 ou 64 bits? Saiba escolher.](https://faladev.org/os/windows/versao-32-ou-64-bits-saiba-escolher/)
