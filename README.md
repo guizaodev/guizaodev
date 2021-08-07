@@ -37,6 +37,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40" style="max-width:100%;"></img>
 
+## 📮 Lastest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Guizao's github stats](https://github-readme-stats.vercel.app/api?username=guizaodev&show_icons=true&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizaodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
