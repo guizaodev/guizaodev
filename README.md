@@ -50,8 +50,6 @@
 ![Guizao's github stats](https://github-readme-stats.vercel.app/api?username=guizaodev&show_icons=true&count_private=true&theme=dracula)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizaodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Snake animation](https://github.com/guizaodev/guizaodev/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **guizaodev/guizaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
