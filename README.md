@@ -43,8 +43,8 @@
 - [Versão 32 ou 64 bits? Saiba escolher.](https://faladev.org/os/windows/versao-32-ou-64-bits-saiba-escolher/)
 - [Corrigir “Sua liçença do Windows expira em breve”](https://faladev.org/os/windows/corrigir-sua-licenca-do-windows-expira-em-breve/)
 - [Ativar Windows 10, sem baixar nada](https://faladev.org/os/windows/ativar-windows-10-sem-baixar-nada/)
-- [The Hottest Hairstyle at Fashion Week Is Not on the Runways](https://faladev.org/fashion/the-hottest-hairstyle-at-fashion-week-is-not-on-the-runways/)
-- [Day 3 of Spring 2016 New York Fashion Week’s most inspiring](https://faladev.org/lifestyle/recipes/day-3-of-spring-2016-new-york-fashion-weeks-most-inspiring/)
+- [Apple TV is finally changing the living room](https://faladev.org/fashion/apple-tv-is-finally-changing-the-living-room/)
+- [How Grand Theft Auto hijacked the entertainment industry](https://faladev.org/lifestyle/recipes/how-grand-theft-auto-hijacked-the-entertainment-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Guizao's github stats](https://github-readme-stats.vercel.app/api?username=guizaodev&show_icons=true&count_private=true&theme=dracula)
