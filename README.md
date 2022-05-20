@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 ## I'm Guilherme Marques
 - I live in :brazil:, south :cold_face:
-- I have been working on Mobile Development :iphone:
+- I'm a **FullStack developer** that have been working on Mobile Development :iphone:
 - I have been learnig more about NodeJS, ReactJS and React Native :sparkling_heart:
 
 ## Connect with me:
